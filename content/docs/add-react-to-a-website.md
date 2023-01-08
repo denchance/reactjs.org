@@ -166,7 +166,7 @@ This approach is fine for learning and creating simple demos. However, it makes 
 
 ### Add JSX to a Project {#add-jsx-to-a-project}
 
-Adding JSX to a project doesn't require complicated tools like a bundler or a development server. Essentially, adding JSX **is a lot like adding a CSS preprocessor.** The only requirement is to have [Node.js](https://nodejs.org/) installed on your computer.
+Adding JSX to a project doesn't require complicated tools like a bundler or a development server. Essentially, adding JSX **is a lot like adding a JSX preprocessor.** The only requirement is to have [Node.js](https://nodejs.org/) installed on your computer.
 
 Go to your project folder in the terminal, and paste these two commands:
 
